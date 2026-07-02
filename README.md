@@ -145,7 +145,7 @@ This project demonstrates practical knowledge of:
 
 ---
 
-# 👤 Author
+# 📬 Contact
 
 **VENKATA MANI SHANKAR**
 
